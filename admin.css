@@ -1,0 +1,17 @@
+@charset 'UTF-8';
+
+* {
+    text-decoration: none;
+}
+
+.option-link {
+    display: flex;
+    flex-direction: column;
+    color: #3d3d3d;
+}
+
+.icon-option {
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
