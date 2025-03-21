@@ -5,3 +5,11 @@ test.php
 
 security.env
 database.env
+
+composer.lock
+
+.vscode/
+
+.idea/
+
+*.env
